@@ -1,0 +1,7 @@
+# .gitignore
+venv/
+__pycache__/
+brain_tumor_dataset/
+brain_tumor_model.h5
+*.log
+.DS_Store
